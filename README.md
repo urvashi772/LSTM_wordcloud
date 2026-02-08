@@ -40,7 +40,7 @@ project/
 **⚙️ Installation**
 
 1️⃣ Clone the repository
-git clone https://github.com/your-username/pdf-wordcloud-app.git
+git clone https://github.com/urvashi772/LSTM_wordcloud
 cd pdf-wordcloud-app
 
 2️⃣ Install dependencies
